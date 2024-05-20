@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2453392179	Player_Footstep			\Default Work Unit\Player_Footstep	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	59326511	BAS_Player_Footstep_grass_walk_05	C:\Users\arnauga.TR12-AL\Documents\WwiseProjects\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Walk\Grass\Grass\BAS_Player_Footstep_grass_walk_05		47410
+	228900068	BAS_Player_Footstep_grass_walk_03	C:\Users\arnauga.TR12-AL\Documents\WwiseProjects\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Walk\Grass\Grass\BAS_Player_Footstep_grass_walk_03		48070
+	797756718	BAS_Player_Footstep_grass_walk_02	C:\Users\arnauga.TR12-AL\Documents\WwiseProjects\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Walk\Grass\Grass\BAS_Player_Footstep_grass_walk_02		51004
+	938381047	BAS_Player_Footstep_grass_walk_06	C:\Users\arnauga.TR12-AL\Documents\WwiseProjects\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Walk\Grass\Grass\BAS_Player_Footstep_grass_walk_06		47032
+	960765948	BAS_Player_Footstep_grass_walk_01	C:\Users\arnauga.TR12-AL\Documents\WwiseProjects\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Walk\Grass\Grass\BAS_Player_Footstep_grass_walk_01		47220
+	972243712	BAS_Player_Footstep_grass_walk_04	C:\Users\arnauga.TR12-AL\Documents\WwiseProjects\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Walk\Grass\Grass\BAS_Player_Footstep_grass_walk_04		45328
+
