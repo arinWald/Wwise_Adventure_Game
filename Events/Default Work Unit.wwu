@@ -3,7 +3,17 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{28A8D5A9-A5CF-4CD1-9DB8-64CFFD8CA4CD}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Player_Footstep" ID="{8C94E60C-E892-4B9A-B07C-D10B7906A2FE}"/>
+				<Event Name="Player_Footstep" ID="{8C94E60C-E892-4B9A-B07C-D10B7906A2FE}">
+					<ChildrenList>
+						<Action Name="" ID="{D7B87035-1BB5-4524-94B8-6D18FD5B04D1}" ShortID="61827105">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Grass" ID="{FE87AD0A-EF64-4209-988D-87902E923ACA}" WorkUnitID="{2846E6FC-2B10-4165-A61A-C29CE9BB2B0C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
