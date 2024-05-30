@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1331382810	Ambient_Region_Cave			\Default Work Unit\Ambient\Ambient_Region_Cave	
+	2644063196	Ambient_WaterDrop			\Default Work Unit\3D Ambient\One-Shots\Ambient_WaterDrop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	390734649	BAS_WaterDrops_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_01		28768
+	529760982	BAS_amb_cave_background_LP	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_cave_background_LP_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_cave_background_LP		14786892
+	536535187	BAS_WaterDrops_06	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_06		77856
+	574109343	BAS_WaterDrops_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_03		51296
+	584667609	BAS_WaterDrops_04	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_04		57440
+	890181249	BAS_WaterDrops_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_02		39008
+	1018303233	BAS_WaterDrops_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_05		43296
+

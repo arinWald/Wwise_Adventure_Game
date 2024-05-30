@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2208964750	Ambient_Windmill			\Default Work Unit\3D Ambient\Ambient_Windmill	
+	2258053876	Ambient_River			\Default Work Unit\3D Ambient\Ambient_River	
+	2752753183	Ambient_Region_Village			\Default Work Unit\Ambient\Ambient_Region_Village	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Default Work Unit\Time_of_Day	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	49108946	BAS_amb_village_night_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_village_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_village_night_background_loop_01		23457888
+	187248088	BAS_WindMillBlade_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WindMillBlade_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_WindMillBlade_03		352352
+	276900603	BAS_Water_River	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_Water_River_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_Water_River		3072160
+	613525424	BAS_WindMillBlade_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WindMillBlade_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_WindMillBlade_01		1622112
+	712427272	BAS_WindMillBlade_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WindMillBlade_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_WindMillBlade_02		1163360
+	747649577	BAS_amb_village_day_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_village_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_village_day_background_loop_01		28801120
+

@@ -3,16 +3,28 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 	2642438544	MenuSlider_Music_Volume			\Default Work Unit\MenuSlider_Music_Volume	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
+	459684523	CaveSends			\Default Work Unit\Master Audio Bus\Master\Aux Sends\CaveSends	
+	544049022	DungeonSends			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends	
+	886264820	Aux Sends			\Default Work Unit\Master Audio Bus\Master\Aux Sends	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
 	3991942870	Music			\Default Work Unit\Master Audio Bus\Master\Music	
 	4056684167	Master			\Default Work Unit\Master Audio Bus\Master	
 
 Auxiliary Bus	ID	Name			Wwise Object Path	Notes
-	3177428469	Cave_Reverb			\Default Work Unit\Master Audio Bus\Master\Cave_Reverb	
-	3502678120	Dungeon_Reverb			\Default Work Unit\Master Audio Bus\Master\Dungeon_Reverb	
+	243931001	Dungeon_Forge			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_Forge	
+	425911480	Dungeon_Library_Statue			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_Library_Statue	
+	567469275	Dungeon_PathToForge			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_PathToForge	
+	1156828694	Dungeon_Entrance			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_Entrance	
+	1941785149	Dungeon_Library			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_Library	
+	2026127448	Dungeon_MezzanineRoomEntrance			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_MezzanineRoomEntrance	
+	2106540524	Dungeon_RoadToCore			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_RoadToCore	
+	2213850905	Dungeon_Core			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_Core	
+	3352684520	CaveEntrance			\Default Work Unit\Master Audio Bus\Master\Aux Sends\CaveSends\CaveEntrance	
+	4122393694	Cave			\Default Work Unit\Master Audio Bus\Master\Aux Sends\CaveSends\Cave	
+	4158999182	Dungeon_MezzanineRoom			\Default Work Unit\Master Audio Bus\Master\Aux Sends\DungeonSends\Dungeon_MezzanineRoom	
 
 Effect plug-ins	ID	Name	Type				Notes
-	1784606267	Reverb_Effect	Wwise RoomVerb			
+	3164629247	Holy	Wwise RoomVerb			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			

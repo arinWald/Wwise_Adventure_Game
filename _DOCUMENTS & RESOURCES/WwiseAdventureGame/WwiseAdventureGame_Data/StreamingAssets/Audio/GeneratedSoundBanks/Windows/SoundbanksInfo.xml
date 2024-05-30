@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{7405788B-5235-FFE4-CBCF-6AE73D5D7747}">
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{E1ABE0B7-F14D-1261-F9B8-B593BD849B0B}">
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
 			<Media>
@@ -20,10 +20,6 @@
 				<File Id="46579020" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_03.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_03_10C4C929.wem</CachePath>
-				</File>
-				<File Id="49108946" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\BAS_amb_village_night_background_loop_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/BAS_amb_village_night_background_loop_01_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="59326511" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_05.wav</ShortName>
@@ -53,10 +49,6 @@
 					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_05.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_05_10C4C929.wem</CachePath>
 				</File>
-				<File Id="187248088" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WindMillBlade_03.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WindMillBlade_03_10C4C929.wem</CachePath>
-				</File>
 				<File Id="222338546" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_04.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_04_10C4C929.wem</CachePath>
@@ -77,14 +69,6 @@
 					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_03.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_03_10C4C929.wem</CachePath>
 				</File>
-				<File Id="276900603" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_Water_River.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_Water_River_D79FB2B7.wem</CachePath>
-				</File>
-				<File Id="277871498" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_Waterfall.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_Waterfall_D79FB2B7.wem</CachePath>
-				</File>
 				<File Id="295611248" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_01.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_01_10C4C929.wem</CachePath>
@@ -93,17 +77,9 @@
 					<ShortName>Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_06.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Sand/BAS_Player_Footstep_sand_walk_06_10C4C929.wem</CachePath>
 				</File>
-				<File Id="311722458" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\BAS_amb_forest_day_background_loop_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/BAS_amb_forest_day_background_loop_01_D79FB2B7.wem</CachePath>
-				</File>
 				<File Id="353871207" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_01.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Wood/BAS_Player_Footstep_wood_walk_01_10C4C929.wem</CachePath>
-				</File>
-				<File Id="390734649" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WaterDrops_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_01_10C4C929.wem</CachePath>
 				</File>
 				<File Id="398668372" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Impact_Sword_SurfaceType_Stone.wav</ShortName>
@@ -145,14 +121,6 @@
 					<ShortName>BAS_Impact_Axe_SurfaceType_Dirt.wav</ShortName>
 					<CachePath>SFX/BAS_Impact_Axe_SurfaceType_Dirt_10C4C929.wem</CachePath>
 				</File>
-				<File Id="529760982" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\BAS_amb_cave_background_LP.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/BAS_amb_cave_background_LP_D79FB2B7.wem</CachePath>
-				</File>
-				<File Id="536535187" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WaterDrops_06.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_06_10C4C929.wem</CachePath>
-				</File>
 				<File Id="542017332" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_04.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_04_10C4C929.wem</CachePath>
@@ -169,21 +137,9 @@
 					<ShortName>BAS_Impact_Hammer_SurfaceType_Crate.wav</ShortName>
 					<CachePath>SFX/BAS_Impact_Hammer_SurfaceType_Crate_10C4C929.wem</CachePath>
 				</File>
-				<File Id="574109343" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WaterDrops_03.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_03_10C4C929.wem</CachePath>
-				</File>
-				<File Id="584667609" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WaterDrops_04.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_04_10C4C929.wem</CachePath>
-				</File>
 				<File Id="609346127" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_01.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Dirt/BAS_Player_Footstep_dirt_walk_01_10C4C929.wem</CachePath>
-				</File>
-				<File Id="613525424" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WindMillBlade_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WindMillBlade_01_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="635630199" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>UI\BAS_Inventory_Close.wav</ShortName>
@@ -221,17 +177,9 @@
 					<ShortName>Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_06.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Water/BAS_Player_Footstep_water_walk_06_10C4C929.wem</CachePath>
 				</File>
-				<File Id="712427272" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WindMillBlade_02.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WindMillBlade_02_D79FB2B7.wem</CachePath>
-				</File>
 				<File Id="739086574" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_02.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Stone/BAS_Player_Footstep_stone_walk_02_10C4C929.wem</CachePath>
-				</File>
-				<File Id="747649577" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\BAS_amb_village_day_background_loop_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/BAS_amb_village_day_background_loop_01_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="752407216" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Impact_Dagger_SurfaceType_Crate.wav</ShortName>
@@ -252,10 +200,6 @@
 				<File Id="797756718" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_02.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_02_10C4C929.wem</CachePath>
-				</File>
-				<File Id="815484025" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\BAS_amb_pineforest_night_background_loop_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/BAS_amb_pineforest_night_background_loop_01_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="821958626" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Impact_PickAxe_SurfaceType_Barrel.wav</ShortName>
@@ -289,10 +233,6 @@
 					<ShortName>BAS_Impact_Dagger_SurfaceType_Dirt.wav</ShortName>
 					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Dirt_10C4C929.wem</CachePath>
 				</File>
-				<File Id="890181249" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WaterDrops_02.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_02_10C4C929.wem</CachePath>
-				</File>
 				<File Id="938381047" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_06.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_06_10C4C929.wem</CachePath>
@@ -304,10 +244,6 @@
 				<File Id="944378246" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>UI\BAS_Inventory_Scroll.wav</ShortName>
 					<CachePath>SFX/UI/BAS_Inventory_Scroll_10C4C929.wem</CachePath>
-				</File>
-				<File Id="945067567" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\BAS_amb_dungeon_day_background_loop_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/BAS_amb_dungeon_day_background_loop_01_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="951934780" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_04.wav</ShortName>
@@ -325,17 +261,9 @@
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_04.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_04_10C4C929.wem</CachePath>
 				</File>
-				<File Id="977337584" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\BAS_amb_desert_night_background_loop_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/BAS_amb_desert_night_background_loop_01_D79FB2B7.wem</CachePath>
-				</File>
 				<File Id="985969280" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Impact_Dagger_SurfaceType_Barrel.wav</ShortName>
 					<CachePath>SFX/BAS_Impact_Dagger_SurfaceType_Barrel_10C4C929.wem</CachePath>
-				</File>
-				<File Id="1018303233" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Emitters\BAS_WaterDrops_05.wav</ShortName>
-					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_05_10C4C929.wem</CachePath>
 				</File>
 				<File Id="1037775484" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_06.wav</ShortName>
@@ -344,14 +272,6 @@
 				<File Id="1041958289" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_03.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Stone/BAS_Player_Footstep_stone_walk_03_10C4C929.wem</CachePath>
-				</File>
-				<File Id="1051524277" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\BAS_amb_desert_day_background_loop_01.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/BAS_amb_desert_day_background_loop_01_D79FB2B7.wem</CachePath>
-				</File>
-				<File Id="1055343858" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Ambient_Background\amb_forest_night_background_loop_02.wav</ShortName>
-					<CachePath>SFX/Ambient_Background/amb_forest_night_background_loop_02_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="1063521342" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Impact_PickAxe_SurfaceType_Crate.wav</ShortName>
@@ -375,75 +295,9 @@
 						<MediaRef Id="140477732"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1331382810" Name="Ambient_Region_Cave">
-					<MediaRefs>
-						<MediaRef Id="529760982"/>
-					</MediaRefs>
-					<AuxBusRefs>
-						<AuxBusRef Id="3177428469" Name="Cave_Reverb"/>
-					</AuxBusRefs>
-				</Event>
-				<Event Id="3408705206" Name="Ambient_Region_Desert">
-					<MediaRefs>
-						<MediaRef Id="977337584"/>
-						<MediaRef Id="1051524277"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="4077685701" Name="Ambient_Region_Dungeon">
-					<MediaRefs>
-						<MediaRef Id="945067567"/>
-					</MediaRefs>
-					<AuxBusRefs>
-						<AuxBusRef Id="3502678120" Name="Dungeon_Reverb"/>
-					</AuxBusRefs>
-				</Event>
-				<Event Id="808171864" Name="Ambient_Region_PineForest">
-					<MediaRefs>
-						<MediaRef Id="815484025"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="2752753183" Name="Ambient_Region_Village">
-					<MediaRefs>
-						<MediaRef Id="49108946"/>
-						<MediaRef Id="747649577"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="1049266392" Name="Ambient_Region_Woodlands">
-					<MediaRefs>
-						<MediaRef Id="311722458"/>
-						<MediaRef Id="1055343858"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="2258053876" Name="Ambient_River">
-					<MediaRefs>
-						<MediaRef Id="276900603"/>
-					</MediaRefs>
-				</Event>
 				<Event Id="120976108" Name="Ambient_Torch">
 					<MediaRefs>
 						<MediaRef Id="434723603"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="2644063196" Name="Ambient_WaterDrop">
-					<MediaRefs>
-						<MediaRef Id="390734649"/>
-						<MediaRef Id="536535187"/>
-						<MediaRef Id="574109343"/>
-						<MediaRef Id="584667609"/>
-						<MediaRef Id="890181249"/>
-						<MediaRef Id="1018303233"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="1934835592" Name="Ambient_Waterfall">
-					<MediaRefs>
-						<MediaRef Id="277871498"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="2208964750" Name="Ambient_Windmill">
-					<MediaRefs>
-						<MediaRef Id="187248088"/>
-						<MediaRef Id="613525424"/>
-						<MediaRef Id="712427272"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="3556635307" Name="Door_DLCdoor_Open_Play"/>
@@ -709,9 +563,6 @@
 					</MediaRefs>
 				</Event>
 			</Events>
-			<GameParameters>
-				<GameParameter Id="207908541" Name="Time_of_Day"/>
-			</GameParameters>
 			<SwitchGroups>
 				<SwitchGroup Id="3251833556" Name="Player_Weapon_Type">
 					<Switches>
@@ -743,12 +594,29 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{4EA866FE-DD8D-E705-3FB7-0DC236CB3FD0}">
+		<SoundBank Id="608898761" Type="User" Language="SFX" Hash="{E0411AB6-5254-DD0B-BAFB-3D42356DE0C5}">
+			<ShortName>Dungeon</ShortName>
+			<Path>Dungeon.bnk</Path>
+			<Media>
+				<File Id="945067567" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\BAS_amb_dungeon_day_background_loop_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/BAS_amb_dungeon_day_background_loop_01_D79FB2B7.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="4077685701" Name="Ambient_Region_Dungeon">
+					<MediaRefs>
+						<MediaRef Id="945067567"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{1C292D11-3FCC-98D3-9325-3AA03DDC9C5D}">
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 			<Plugins>
 				<ShareSets>
-					<Plugin Id="1784606267" Name="Reverb_Effect" LibName="Wwise RoomVerb" LibId="7733251"/>
+					<Plugin Id="3164629247" Name="Holy" LibName="Wwise RoomVerb" LibId="7733251"/>
 				</ShareSets>
 				<AudioDevices>
 					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
@@ -756,22 +624,88 @@
 				</AudioDevices>
 			</Plugins>
 			<Busses>
+				<Bus Id="459684523" Name="CaveSends"/>
+				<Bus Id="544049022" Name="DungeonSends"/>
+				<Bus Id="886264820" Name="Aux Sends"/>
 				<Bus Id="3803692087" Name="Master Audio Bus"/>
 				<Bus Id="3991942870" Name="Music"/>
 				<Bus Id="4056684167" Name="Master"/>
 			</Busses>
 			<AuxBusses>
-				<AuxBus Id="3177428469" Name="Cave_Reverb">
+				<AuxBus Id="243931001" Name="Dungeon_Forge">
 					<PluginRefs>
 						<ShareSets>
-							<PluginRef Id="1784606267"/>
+							<PluginRef Id="3164629247"/>
 						</ShareSets>
 					</PluginRefs>
 				</AuxBus>
-				<AuxBus Id="3502678120" Name="Dungeon_Reverb">
+				<AuxBus Id="425911480" Name="Dungeon_Library_Statue">
 					<PluginRefs>
 						<ShareSets>
-							<PluginRef Id="1784606267"/>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="567469275" Name="Dungeon_PathToForge">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="1156828694" Name="Dungeon_Entrance">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="1941785149" Name="Dungeon_Library">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="2026127448" Name="Dungeon_MezzanineRoomEntrance">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="2106540524" Name="Dungeon_RoadToCore">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="2213850905" Name="Dungeon_Core">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="3352684520" Name="CaveEntrance">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="4122393694" Name="Cave">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="4158999182" Name="Dungeon_MezzanineRoom">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
 						</ShareSets>
 					</PluginRefs>
 				</AuxBus>
@@ -823,6 +757,186 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
+		<SoundBank Id="1421251628" Type="User" Language="SFX" Hash="{79C17226-D108-672E-A8AA-7A4A118FFCB7}">
+			<ShortName>Woodlands</ShortName>
+			<Path>Woodlands.bnk</Path>
+			<Media>
+				<File Id="277871498" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_Waterfall.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_Waterfall_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="311722458" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\BAS_amb_forest_day_background_loop_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/BAS_amb_forest_day_background_loop_01_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="1055343858" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\amb_forest_night_background_loop_02.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/amb_forest_night_background_loop_02_D79FB2B7.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1049266392" Name="Ambient_Region_Woodlands">
+					<MediaRefs>
+						<MediaRef Id="311722458"/>
+						<MediaRef Id="1055343858"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1934835592" Name="Ambient_Waterfall">
+					<MediaRefs>
+						<MediaRef Id="277871498"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="1850388778" Type="User" Language="SFX" Hash="{5C4CFB65-DE3A-AD6C-326D-B502B940C9DB}">
+			<ShortName>Desert</ShortName>
+			<Path>Desert.bnk</Path>
+			<Media>
+				<File Id="977337584" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\BAS_amb_desert_night_background_loop_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/BAS_amb_desert_night_background_loop_01_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="1051524277" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\BAS_amb_desert_day_background_loop_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/BAS_amb_desert_day_background_loop_01_D79FB2B7.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3408705206" Name="Ambient_Region_Desert">
+					<MediaRefs>
+						<MediaRef Id="977337584"/>
+						<MediaRef Id="1051524277"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="2482365692" Type="User" Language="SFX" Hash="{B4AE70D5-0CAC-E550-48D7-63B87EA71D65}">
+			<ShortName>PineForest</ShortName>
+			<Path>PineForest.bnk</Path>
+			<Media>
+				<File Id="815484025" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\BAS_amb_pineforest_night_background_loop_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/BAS_amb_pineforest_night_background_loop_01_D79FB2B7.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="808171864" Name="Ambient_Region_PineForest">
+					<MediaRefs>
+						<MediaRef Id="815484025"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3945572659" Type="User" Language="SFX" Hash="{2CF728C5-59E4-4891-72B2-5E91A8259975}">
+			<ShortName>Village</ShortName>
+			<Path>Village.bnk</Path>
+			<Media>
+				<File Id="49108946" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\BAS_amb_village_night_background_loop_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/BAS_amb_village_night_background_loop_01_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="187248088" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WindMillBlade_03.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WindMillBlade_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="276900603" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_Water_River.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_Water_River_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="613525424" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WindMillBlade_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WindMillBlade_01_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="712427272" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WindMillBlade_02.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WindMillBlade_02_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="747649577" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\BAS_amb_village_day_background_loop_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/BAS_amb_village_day_background_loop_01_D79FB2B7.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2752753183" Name="Ambient_Region_Village">
+					<MediaRefs>
+						<MediaRef Id="49108946"/>
+						<MediaRef Id="747649577"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2258053876" Name="Ambient_River">
+					<MediaRefs>
+						<MediaRef Id="276900603"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2208964750" Name="Ambient_Windmill">
+					<MediaRefs>
+						<MediaRef Id="187248088"/>
+						<MediaRef Id="613525424"/>
+						<MediaRef Id="712427272"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="207908541" Name="Time_of_Day"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="4122393694" Type="User" Language="SFX" Hash="{AE6E64E7-3821-D9E9-DE96-4BA6D76EAE3B}">
+			<ShortName>Cave</ShortName>
+			<Path>Cave.bnk</Path>
+			<Media>
+				<File Id="390734649" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WaterDrops_01.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="529760982" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Background\BAS_amb_cave_background_LP.wav</ShortName>
+					<CachePath>SFX/Ambient_Background/BAS_amb_cave_background_LP_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="536535187" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WaterDrops_06.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="574109343" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WaterDrops_03.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="584667609" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WaterDrops_04.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="890181249" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WaterDrops_02.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1018303233" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambient_Emitters\BAS_WaterDrops_05.wav</ShortName>
+					<CachePath>SFX/Ambient_Emitters/BAS_WaterDrops_05_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1331382810" Name="Ambient_Region_Cave">
+					<MediaRefs>
+						<MediaRef Id="529760982"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2644063196" Name="Ambient_WaterDrop">
+					<MediaRefs>
+						<MediaRef Id="390734649"/>
+						<MediaRef Id="536535187"/>
+						<MediaRef Id="574109343"/>
+						<MediaRef Id="584667609"/>
+						<MediaRef Id="890181249"/>
+						<MediaRef Id="1018303233"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
 	</SoundBanks>
-	<FileHash>{8B4A948E-0859-7FB6-DF53-A05E2022243D}</FileHash>
+	<FileHash>{6252FA77-FDC7-3F8C-8B75-77FF89B2472A}</FileHash>
 </SoundBanksInfo>
