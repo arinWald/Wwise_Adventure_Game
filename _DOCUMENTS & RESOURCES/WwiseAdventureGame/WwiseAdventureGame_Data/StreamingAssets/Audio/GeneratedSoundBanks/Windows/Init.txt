@@ -1,5 +1,18 @@
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
+	2642438544	MenuSlider_Music_Volume			\Default Work Unit\MenuSlider_Music_Volume	
+
 Audio Bus	ID	Name			Wwise Object Path	Notes
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Master\Music	
+	4056684167	Master			\Default Work Unit\Master Audio Bus\Master	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	3177428469	Cave_Reverb			\Default Work Unit\Master Audio Bus\Master\Cave_Reverb	
+	3502678120	Dungeon_Reverb			\Default Work Unit\Master Audio Bus\Master\Dungeon_Reverb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1784606267	Reverb_Effect	Wwise RoomVerb			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			

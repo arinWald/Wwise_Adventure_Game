@@ -21,6 +21,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	3556635307	Door_DLCdoor_Open_Play			\Default Work Unit\3D Ambient\Door_DLCdoor_Open_Play	
 	3664581270	Ambient_Campfire_Play			\Default Work Unit\3D Ambient\Ambient_Campfire_Play	
 	3695342915	Player_WeaponImpact			\Default Work Unit\Player_WeaponImpact	
+	3741135221	Music_Region			\Default Work Unit\Music_Region	
 	3749307760	UI_Inventory_Roll			\Default Work Unit\UI\UI_Inventory_Roll	
 	4077685701	Ambient_Region_Dungeon			\Default Work Unit\Ambient\Ambient_Region_Dungeon	
 	4275106484	Ambient_Lava			\Default Work Unit\3D Ambient\Ambient_Lava	
@@ -59,6 +60,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	46579020	BAS_Player_Footstep_sand_walk_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Sand\BAS_Player_Footstep_sand_walk_03		36200
 	49108946	BAS_amb_village_night_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_village_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_village_night_background_loop_01		23457888
 	59326511	BAS_Player_Footstep_grass_walk_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Grass\BAS_Player_Footstep_grass_walk_05		47410
+	112366747	Nowhere_120BPM_4_4_L8M_P0	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Nowhere_120BPM_4_4_L8M_P0_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Nowhere_120BPM_4_4_L8M_P0		3072160
 	125320970	BAS_Impact_Hammer_SurfaceType_Barrel	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\BAS_Impact_Hammer_SurfaceType_Barrel_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapon_Impacts\Impact_Hammer_Surface_Type\BAS_Impact_Hammer_SurfaceType_Barrel		100682
 	137544811	BAS_Player_Footstep_wood_walk_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Wood\BAS_Player_Footstep_wood_walk_05		47410
 	140477732	BAS_Lava	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_Lava_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_Lava		1228896

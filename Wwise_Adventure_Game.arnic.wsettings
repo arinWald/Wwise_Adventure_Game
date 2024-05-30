@@ -3,11 +3,13 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{238BE9F4-EBF2-4977-8E62-6A0F6BE84111}">
 			<PropertyList>
+				<Property Name="EffectsView\MeteringObject\{7E33F9D7-4338-4705-8560-46C37E8B38AA}" Type="string" Value="{34C4A430-58BE-46C3-B7AC-38F87799BDA8}"/>
 				<Property Name="Event Action List\{09BF9050-7468-47DA-B6F2-ED9B408070F8}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{1A9E56FB-6000-4E2E-96B4-EF84C27D82B3}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{1E633FDD-6430-4483-9579-C2AF319D9EA6}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{1E7F348C-0A2C-444C-9CEA-1BCCA3A158AB}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{1FCA50A9-395D-4966-8253-89EF778B47E0}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{219B1A1D-CAA2-4A48-8361-B04743B82870}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{2644E3F3-4903-41DD-9302-4122A902C6AB}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{32FB81D8-B452-4645-9F58-C13C312B6CA5}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{3A2503A7-1EE6-422F-8E3A-8963A8D5AD6A}\x64_Expand States" Type="string" Value=""/>

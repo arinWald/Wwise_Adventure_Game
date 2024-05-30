@@ -9,6 +9,92 @@
 							<ObjectRef Name="System" ID="{11048BBF-FE98-45BC-88B4-E4CB6A4A1EDD}" WorkUnitID="{B63A836A-32AB-4F51-8BB6-9368B3D925CD}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Master" ID="{36DA34F1-27D8-4EE1-88BD-B4DCA02AB77F}">
+							<ChildrenList>
+								<Bus Name="Music" ID="{18B236FF-7D4E-4447-9689-220DEC58E781}">
+									<ObjectLists>
+										<ObjectList Name="RTPC">
+											<Reference>
+												<Local>
+													<RTPC Name="" ID="{305D4F32-2AA3-4B1E-9696-76883CC73C94}" ShortID="369349413">
+														<PropertyList>
+															<Property Name="PropertyName" Type="string" Value="BusVolume"/>
+														</PropertyList>
+														<ReferenceList>
+															<Reference Name="ControlInput">
+																<ObjectRef Name="MenuSlider_Music_Volume" ID="{93E05287-A2CA-41C1-9DE3-62031F695723}" WorkUnitID="{E07B441A-56F8-434B-B12D-F77FB3A58D79}"/>
+															</Reference>
+															<Reference Name="Curve">
+																<Custom>
+																	<Curve Name="" ID="{4E47A739-E01A-4090-A2A2-00DF009C7EAB}">
+																		<PropertyList>
+																			<Property Name="Flags" Type="int32" Value="3"/>
+																		</PropertyList>
+																		<PointList>
+																			<Point>
+																				<XPos>0</XPos>
+																				<YPos>-200</YPos>
+																				<Flags>5</Flags>
+																			</Point>
+																			<Point>
+																				<XPos>100</XPos>
+																				<YPos>0</YPos>
+																				<Flags>37</Flags>
+																			</Point>
+																		</PointList>
+																	</Curve>
+																</Custom>
+															</Reference>
+														</ReferenceList>
+													</RTPC>
+												</Local>
+											</Reference>
+										</ObjectList>
+									</ObjectLists>
+								</Bus>
+							</ChildrenList>
+							<ObjectLists>
+								<ObjectList Name="RTPC">
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{6F878FCE-E6F7-412D-9D8F-B7222730A6C5}" ShortID="574794023">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="BusVolume"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="MenuSlider_Master_Volume" ID="{249CC789-A3E9-4D82-9655-21576969BD24}" WorkUnitID="{E07B441A-56F8-434B-B12D-F77FB3A58D79}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{C0B281B2-4F04-4DAD-9E7D-23E59CE9B87A}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>100</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</Bus>
+					</ChildrenList>
 				</Bus>
 			</ChildrenList>
 		</WorkUnit>

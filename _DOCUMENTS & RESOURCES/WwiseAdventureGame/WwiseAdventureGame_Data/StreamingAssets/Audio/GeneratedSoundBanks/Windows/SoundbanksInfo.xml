@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{6CE24971-BF3C-ACD0-C26A-69DF74356FB1}">
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{7405788B-5235-FFE4-CBCF-6AE73D5D7747}">
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
 			<Media>
@@ -28,6 +28,10 @@
 				<File Id="59326511" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_05.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="112366747" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Nowhere_120BPM_4_4_L8M_P0.wav</ShortName>
+					<CachePath>SFX/Nowhere_120BPM_4_4_L8M_P0_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="125320970" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>BAS_Impact_Hammer_SurfaceType_Barrel.wav</ShortName>
@@ -375,6 +379,9 @@
 					<MediaRefs>
 						<MediaRef Id="529760982"/>
 					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="3177428469" Name="Cave_Reverb"/>
+					</AuxBusRefs>
 				</Event>
 				<Event Id="3408705206" Name="Ambient_Region_Desert">
 					<MediaRefs>
@@ -386,6 +393,9 @@
 					<MediaRefs>
 						<MediaRef Id="945067567"/>
 					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="3502678120" Name="Dungeon_Reverb"/>
+					</AuxBusRefs>
 				</Event>
 				<Event Id="808171864" Name="Ambient_Region_PineForest">
 					<MediaRefs>
@@ -441,6 +451,11 @@
 				<Event Id="3492604883" Name="Door_TempleDoor_Open_Play"/>
 				<Event Id="2409105241" Name="Music_ArcadeMachine_Play"/>
 				<Event Id="746676127" Name="Music_ArcadeMachine_Stop"/>
+				<Event Id="3741135221" Name="Music_Region">
+					<MediaRefs>
+						<MediaRef Id="112366747"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="2453392179" Name="Player_Footstep">
 					<SwitchContainers>
 						<SwitchContainer>
@@ -728,10 +743,13 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{0E03BA6E-F2C6-1E16-2E02-9B19FBFA6264}">
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{4EA866FE-DD8D-E705-3FB7-0DC236CB3FD0}">
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 			<Plugins>
+				<ShareSets>
+					<Plugin Id="1784606267" Name="Reverb_Effect" LibName="Wwise RoomVerb" LibId="7733251"/>
+				</ShareSets>
 				<AudioDevices>
 					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
 					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
@@ -739,9 +757,29 @@
 			</Plugins>
 			<Busses>
 				<Bus Id="3803692087" Name="Master Audio Bus"/>
+				<Bus Id="3991942870" Name="Music"/>
+				<Bus Id="4056684167" Name="Master"/>
 			</Busses>
+			<AuxBusses>
+				<AuxBus Id="3177428469" Name="Cave_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1784606267"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="3502678120" Name="Dungeon_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1784606267"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+			</AuxBusses>
 			<GameParameters>
 				<GameParameter Id="207908541" Name="Time_of_Day"/>
+				<GameParameter Id="1333239961" Name="MenuSlider_Master_Volume"/>
+				<GameParameter Id="2642438544" Name="MenuSlider_Music_Volume"/>
 			</GameParameters>
 			<SwitchGroups>
 				<SwitchGroup Id="3251833556" Name="Player_Weapon_Type">
@@ -786,5 +824,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{3712116E-82F7-38E9-5601-21E3FBC6651D}</FileHash>
+	<FileHash>{8B4A948E-0859-7FB6-DF53-A05E2022243D}</FileHash>
 </SoundBanksInfo>
