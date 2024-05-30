@@ -22,6 +22,26 @@
 						<Switch Name="Wood" ID="{AD5A9B58-946C-4368-9F0C-134643D5E09A}"/>
 					</ChildrenList>
 				</SwitchGroup>
+				<SwitchGroup Name="Player_Weapon_Type" ID="{650FEC85-6FF8-4786-A0A4-93CF7AD91854}">
+					<ChildrenList>
+						<Switch Name="Axe" ID="{8B11879B-186F-40F6-BE03-D784543DE1E4}"/>
+						<Switch Name="Dagger" ID="{AFCEB40D-45FE-4D38-A02A-AC3DE44CEA5C}"/>
+						<Switch Name="Hammer" ID="{54F3DE5B-B621-44C9-8F9E-122886EA35C7}"/>
+						<Switch Name="PickAxe" ID="{27C4FA94-05AE-4264-AB1F-FC7B928D4E6A}"/>
+						<Switch Name="Sword" ID="{A7ED965A-536E-4196-B92E-9EE2AE46C0D8}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Player_Pickup_ItemType" ID="{E7437693-C5E8-4603-813A-E5B11FE2A7A6}">
+					<ChildrenList>
+						<Switch Name="Book" ID="{64DF76BE-46EE-41BC-914D-F4548972DFFC}"/>
+						<Switch Name="CrystalShard" ID="{85B66B6B-5D83-4F08-A175-655AFD1037DC}"/>
+						<Switch Name="Key" ID="{1CA3D955-0DFB-4C5B-AE56-D698D182944F}"/>
+						<Switch Name="EvilEssence" ID="{59442524-B61F-486E-90F5-CAAB526CA6C6}"/>
+						<Switch Name="PineCone" ID="{DC72C378-84CC-4EC8-BD2F-B91C0511B49A}"/>
+						<Switch Name="Misc" ID="{B6B85D2A-CD9A-46DE-A67D-D7C8348BF012}"/>
+						<Switch Name="Mushroom" ID="{A36EDECD-03E1-4416-9230-8717A77873AD}"/>
+					</ChildrenList>
+				</SwitchGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>
