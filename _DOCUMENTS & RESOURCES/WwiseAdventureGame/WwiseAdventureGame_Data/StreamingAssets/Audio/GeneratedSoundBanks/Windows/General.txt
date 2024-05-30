@@ -1,0 +1,113 @@
+Event	ID	Name			Wwise Object Path	Notes
+	100151336	Ambient_Campfire_Stop			\Default Work Unit\3D Ambient\Ambient_Campfire_Stop	
+	120976108	Ambient_Torch			\Default Work Unit\3D Ambient\Ambient_Torch	
+	746676127	Music_ArcadeMachine_Stop			\Default Work Unit\3D Ambient\Music_ArcadeMachine_Stop	
+	808171864	Ambient_Region_PineForest			\Default Work Unit\Ambient\Ambient_Region_PineForest	
+	1049266392	Ambient_Region_Woodlands			\Default Work Unit\Ambient\Ambient_Region_Woodlands	
+	1331382810	Ambient_Region_Cave			\Default Work Unit\Ambient\Ambient_Region_Cave	
+	1934835592	Ambient_Waterfall			\Default Work Unit\3D Ambient\Ambient_Waterfall	
+	2199611969	UI_Inventory_Open			\Default Work Unit\UI\UI_Inventory_Open	
+	2208964750	Ambient_Windmill			\Default Work Unit\3D Ambient\Ambient_Windmill	
+	2258053876	Ambient_River			\Default Work Unit\3D Ambient\Ambient_River	
+	2278290679	UI_Inventory_Close			\Default Work Unit\UI\UI_Inventory_Close	
+	2355650095	Ambient_Crystal_Hum			\Default Work Unit\3D Ambient\Ambient_Crystal_Hum	
+	2379298625	Door_DLCdoor_Open_Stop			\Default Work Unit\3D Ambient\Door_DLCdoor_Open_Stop	
+	2409105241	Music_ArcadeMachine_Play			\Default Work Unit\3D Ambient\Music_ArcadeMachine_Play	
+	2453392179	Player_Footstep			\Default Work Unit\Player_Footstep	
+	2644063196	Ambient_WaterDrop			\Default Work Unit\3D Ambient\One-Shots\Ambient_WaterDrop	
+	2752753183	Ambient_Region_Village			\Default Work Unit\Ambient\Ambient_Region_Village	
+	3408705206	Ambient_Region_Desert			\Default Work Unit\Ambient\Ambient_Region_Desert	
+	3492604883	Door_TempleDoor_Open_Play			\Default Work Unit\3D Ambient\One-Shots\Door_TempleDoor_Open_Play	
+	3556635307	Door_DLCdoor_Open_Play			\Default Work Unit\3D Ambient\Door_DLCdoor_Open_Play	
+	3664581270	Ambient_Campfire_Play			\Default Work Unit\3D Ambient\Ambient_Campfire_Play	
+	3749307760	UI_Inventory_Roll			\Default Work Unit\UI\UI_Inventory_Roll	
+	4077685701	Ambient_Region_Dungeon			\Default Work Unit\Ambient\Ambient_Region_Dungeon	
+	4275106484	Ambient_Lava			\Default Work Unit\3D Ambient\Ambient_Lava	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	4064446173	Surface_Type			\Default Work Unit\Surface_Type	
+
+Switch	ID	Name	Switch Group			Notes
+	389757836	Agent	Surface_Type			
+	442447909	Barrel	Surface_Type			
+	582824249	Leaves	Surface_Type			
+	803837735	Sand	Surface_Type			
+	1216965916	Stone	Surface_Type			
+	1647104456	Enemy_EvilCrawler	Surface_Type			
+	2058049674	Wood	Surface_Type			
+	2195636714	Dirt	Surface_Type			
+	2473969246	Metal	Surface_Type			
+	2654748154	Water	Surface_Type			
+	3065846598	Enemy_EvilHead	Surface_Type			
+	3098439042	Crate	Surface_Type			
+	3276966729	Enemy_EvilSpitPlant	Surface_Type			
+	3444057113	Crystal	Surface_Type			
+	4248645337	Grass	Surface_Type			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Default Work Unit\Time_of_Day	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	46579020	BAS_Player_Footstep_sand_walk_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Sand\BAS_Player_Footstep_sand_walk_03		36200
+	49108946	BAS_amb_village_night_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_village_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_village_night_background_loop_01		23457888
+	59326511	BAS_Player_Footstep_grass_walk_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Grass\BAS_Player_Footstep_grass_walk_05		47410
+	137544811	BAS_Player_Footstep_wood_walk_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Wood\BAS_Player_Footstep_wood_walk_05		47410
+	140477732	BAS_Lava	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_Lava_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_Lava		1228896
+	155211982	BAS_Player_Footstep_sand_walk_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Sand\BAS_Player_Footstep_sand_walk_05		23480
+	178421715	BAS_Player_Footstep_water_walk_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Water\BAS_Player_Footstep_water_walk_05		47410
+	187248088	BAS_WindMillBlade_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WindMillBlade_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_WindMillBlade_03		352352
+	222338546	BAS_Player_Footstep_sand_walk_04	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Sand\BAS_Player_Footstep_sand_walk_04		26822
+	228900068	BAS_Player_Footstep_grass_walk_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Grass\BAS_Player_Footstep_grass_walk_03		48070
+	235123134	BAS_Player_Footstep_dirt_walk_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\BAS_Player_Footstep_dirt_walk_03		48070
+	276900603	BAS_Water_River	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_Water_River_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_Water_River		3072160
+	277871498	BAS_Waterfall	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_Waterfall_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_Waterfall		768096
+	295611248	BAS_Player_Footstep_sand_walk_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Sand\BAS_Player_Footstep_sand_walk_01		40918
+	300109470	BAS_Player_Footstep_sand_walk_06	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Sand\BAS_Player_Footstep_sand_walk_06		23686
+	311722458	BAS_amb_forest_day_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_forest_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_forest_day_background_loop_01		27990112
+	353871207	BAS_Player_Footstep_wood_walk_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Wood\BAS_Player_Footstep_wood_walk_01		47220
+	390734649	BAS_WaterDrops_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_01		28768
+	430375690	BAS_Player_Footstep_stone_walk_06	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Stone\BAS_Player_Footstep_stone_walk_06		47032
+	434723603	BAS_Torch	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_Torch_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_Torch		448524
+	440224373	BAS_Player_Footstep_dirt_walk_06	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\BAS_Player_Footstep_dirt_walk_06		47032
+	479331498	BAS_Crystal_Ringing	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_Crystal_Ringing_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_Crystal_Ringing		2469760
+	506399355	BAS_Player_Footstep_water_walk_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Water\BAS_Player_Footstep_water_walk_02		51004
+	516734925	BAS_Player_Footstep_dirt_walk_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\BAS_Player_Footstep_dirt_walk_05		47410
+	529760982	BAS_amb_cave_background_LP	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_cave_background_LP_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_cave_background_LP		14786892
+	536535187	BAS_WaterDrops_06	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_06		77856
+	542017332	BAS_Player_Footstep_water_walk_04	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Water\BAS_Player_Footstep_water_walk_04		45328
+	574109343	BAS_WaterDrops_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_03		51296
+	584667609	BAS_WaterDrops_04	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_04		57440
+	609346127	BAS_Player_Footstep_dirt_walk_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\BAS_Player_Footstep_dirt_walk_01		47220
+	613525424	BAS_WindMillBlade_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WindMillBlade_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_WindMillBlade_01		1622112
+	635630199	BAS_Inventory_Close	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\UI\BAS_Inventory_Close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Inventory_Close		46656
+	663858144	BAS_Player_Footstep_sand_walk_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Sand\BAS_Player_Footstep_sand_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Sand\BAS_Player_Footstep_sand_walk_02		35914
+	685858305	BAS_Inventory_Open	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\UI\BAS_Inventory_Open_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Inventory_Open		45400
+	687114641	BAS_Player_Footstep_dirt_walk_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\BAS_Player_Footstep_dirt_walk_02		51004
+	698624680	BAS_Player_Footstep_water_walk_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Water\BAS_Player_Footstep_water_walk_03		48070
+	706880273	BAS_Player_Footstep_water_walk_06	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Water\BAS_Player_Footstep_water_walk_06		47032
+	712427272	BAS_WindMillBlade_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WindMillBlade_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\BAS_WindMillBlade_02		1163360
+	739086574	BAS_Player_Footstep_stone_walk_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Stone\BAS_Player_Footstep_stone_walk_02		51004
+	747649577	BAS_amb_village_day_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_village_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_village_day_background_loop_01		28801120
+	794243352	BAS_Player_Footstep_wood_walk_04	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Wood\BAS_Player_Footstep_wood_walk_04		45328
+	797756718	BAS_Player_Footstep_grass_walk_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Grass\BAS_Player_Footstep_grass_walk_02		51004
+	815484025	BAS_amb_pineforest_night_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_pineforest_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_pineforest_night_background_loop_01		13829380
+	850897671	BAS_Player_Footstep_water_walk_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Water\BAS_Player_Footstep_water_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Water\BAS_Player_Footstep_water_walk_01		47220
+	862134783	BAS_Player_Footstep_stone_walk_04	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Stone\BAS_Player_Footstep_stone_walk_04		45328
+	873272329	BAS_Player_Footstep_stone_walk_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Stone\BAS_Player_Footstep_stone_walk_05		47410
+	885006630	BAS_Player_Footstep_stone_walk_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Stone\BAS_Player_Footstep_stone_walk_01		47220
+	890181249	BAS_WaterDrops_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_02		39008
+	938381047	BAS_Player_Footstep_grass_walk_06	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Grass\BAS_Player_Footstep_grass_walk_06		47032
+	941930234	BAS_Player_Footstep_wood_walk_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Wood\BAS_Player_Footstep_wood_walk_02		51004
+	944378246	BAS_Inventory_Scroll	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\UI\BAS_Inventory_Scroll_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\BAS_Inventory_Scroll		53988
+	945067567	BAS_amb_dungeon_day_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_dungeon_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_dungeon_day_background_loop_01		24641632
+	951934780	BAS_Player_Footstep_dirt_walk_04	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Dirt\BAS_Player_Footstep_dirt_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\BAS_Player_Footstep_dirt_walk_04		45328
+	953533843	BAS_Player_Footstep_wood_walk_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Wood\BAS_Player_Footstep_wood_walk_03		48070
+	960765948	BAS_Player_Footstep_grass_walk_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Grass\BAS_Player_Footstep_grass_walk_01		47220
+	972243712	BAS_Player_Footstep_grass_walk_04	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Grass\BAS_Player_Footstep_grass_walk_04		45328
+	977337584	BAS_amb_desert_night_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_desert_night_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_desert_night_background_loop_01		11931232
+	1018303233	BAS_WaterDrops_05	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Emitters\BAS_WaterDrops_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Emitters\Ambient-Emitters (Share Set)\WaterDrop\BAS_WaterDrops_05		43296
+	1037775484	BAS_Player_Footstep_wood_walk_06	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Wood\BAS_Player_Footstep_wood_walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Wood\BAS_Player_Footstep_wood_walk_06		47032
+	1041958289	BAS_Player_Footstep_stone_walk_03	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Footsteps\Walk\Stone\BAS_Player_Footstep_stone_walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Stone\BAS_Player_Footstep_stone_walk_03		48070
+	1051524277	BAS_amb_desert_day_background_loop_01	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\BAS_amb_desert_day_background_loop_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\BAS_amb_desert_day_background_loop_01		21299296
+	1055343858	amb_forest_night_background_loop_02	D:\DocumentsHDD\Github\Wwise_Adventure_Game\.cache\Windows\SFX\Ambient_Background\amb_forest_night_background_loop_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient_Background\Ambient_Background\amb_forest_night_background_loop_02		4343896
+
