@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{2381734A-BD8F-E61B-0D95-4DD9E50791B6}">
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{BA570635-F65F-769D-1CD6-E3FF1E5AFB61}">
 			<ShortName>General</ShortName>
 			<Path>General.bnk</Path>
 			<Media>
@@ -21,6 +21,14 @@
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_03.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_03_10C4C929.wem</CachePath>
 				</File>
+				<File Id="635630199" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>UI\BAS_Inventory_Close.wav</ShortName>
+					<CachePath>SFX/UI/BAS_Inventory_Close_10C4C929.wem</CachePath>
+				</File>
+				<File Id="685858305" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>UI\BAS_Inventory_Open.wav</ShortName>
+					<CachePath>SFX/UI/BAS_Inventory_Open_10C4C929.wem</CachePath>
+				</File>
 				<File Id="797756718" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_02.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_02_10C4C929.wem</CachePath>
@@ -28,6 +36,10 @@
 				<File Id="938381047" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_06.wav</ShortName>
 					<CachePath>SFX/Footsteps/Walk/Grass/BAS_Player_Footstep_grass_walk_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="944378246" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>UI\BAS_Inventory_Scroll.wav</ShortName>
+					<CachePath>SFX/UI/BAS_Inventory_Scroll_10C4C929.wem</CachePath>
 				</File>
 				<File Id="960765948" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Walk\Grass\BAS_Player_Footstep_grass_walk_01.wav</ShortName>
@@ -49,6 +61,21 @@
 						<MediaRef Id="972243712"/>
 					</MediaRefs>
 				</Event>
+				<Event Id="2278290679" Name="UI_Inventory_Close">
+					<MediaRefs>
+						<MediaRef Id="635630199"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2199611969" Name="UI_Inventory_Open">
+					<MediaRefs>
+						<MediaRef Id="685858305"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3749307760" Name="UI_Inventory_Roll">
+					<MediaRefs>
+						<MediaRef Id="944378246"/>
+					</MediaRefs>
+				</Event>
 			</Events>
 		</SoundBank>
 		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{986487A9-2683-E47A-8688-3D0FE6FDB954}">
@@ -65,5 +92,5 @@
 			</Busses>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{EFC18C55-0B1A-7654-39F1-C186E0CF8674}</FileHash>
+	<FileHash>{B553107E-1701-CBB4-C8A7-63C552D9A9EB}</FileHash>
 </SoundBanksInfo>

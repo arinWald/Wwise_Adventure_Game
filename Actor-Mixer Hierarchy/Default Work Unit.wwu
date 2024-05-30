@@ -1909,6 +1909,252 @@
 						</Folder>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="UI" ID="{B4B2CC0F-F015-49BB-81D5-B7B1379DEA87}" ShortID="136784412">
+					<ChildrenList>
+						<Sound Name="BAS_Button_Close" ID="{37935B16-0B3C-47C3-976C-98D8864ABEC4}" ShortID="171498439">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Button_Close" ID="{B454C226-62CD-4E6E-ACC2-4BF4E3950191}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Button_Close.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="86955104"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Button_Close" ID="{B454C226-62CD-4E6E-ACC2-4BF4E3950191}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_Button_Enter" ID="{40FA83AD-849B-40D4-9234-4216ADB48E44}" ShortID="171833193">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Button_Enter" ID="{635EA7A3-02B1-4E73-A43B-67F5309482BF}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Button_Enter.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="969626794"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Button_Enter" ID="{635EA7A3-02B1-4E73-A43B-67F5309482BF}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_Button_Open" ID="{531D1714-30C6-4311-A96F-CE1C5CD0B82D}" ShortID="1042207965">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Button_Open" ID="{70D44BC5-C7D8-46DB-B764-0EADAE61A077}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Button_Open.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="942164362"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Button_Open" ID="{70D44BC5-C7D8-46DB-B764-0EADAE61A077}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_Button_Over" ID="{F11F25D0-D232-43BE-A9DF-330B49347E12}" ShortID="44403566">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Button_Over" ID="{283532BB-4716-46D9-9E03-C7C8508E769B}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Button_Over.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="169792729"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Button_Over" ID="{283532BB-4716-46D9-9E03-C7C8508E769B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_Button_Teleport" ID="{E905C082-E61F-4C82-8770-DD8D94019FEA}" ShortID="309111790">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Button_Teleport" ID="{BC01F91B-BC3E-4606-B4A0-8A29038EAA48}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Button_Teleport.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="525823299"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Button_Teleport" ID="{BC01F91B-BC3E-4606-B4A0-8A29038EAA48}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_Inventory_Close" ID="{B05ABA39-2203-4C6A-B31D-618645913920}" ShortID="61503027">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Inventory_Close" ID="{DDD36B8B-4E37-4C00-AFDD-7E7CC1982B30}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Inventory_Close.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="635630199"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Inventory_Close" ID="{DDD36B8B-4E37-4C00-AFDD-7E7CC1982B30}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_Inventory_Open" ID="{B6AB78B0-7294-4C61-8F04-34A8FC6A997A}" ShortID="374412540">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Inventory_Open" ID="{5D3F4E4B-DB69-4A9E-9151-32F24083E1FA}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Inventory_Open.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="685858305"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Inventory_Open" ID="{5D3F4E4B-DB69-4A9E-9151-32F24083E1FA}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_Inventory_Scroll" ID="{33E8556D-7B75-432F-95DB-919E9453DF1B}" ShortID="506363680">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Inventory_Scroll" ID="{487A2E34-B0AE-46F5-9F61-F02D56761F88}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Inventory_Scroll.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="944378246"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Inventory_Scroll" ID="{487A2E34-B0AE-46F5-9F61-F02D56761F88}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_Inventory_Select" ID="{CAB2451E-A7B6-4319-9B79-686CDC6AA2E8}" ShortID="513611497">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_Inventory_Select" ID="{7257D9B2-5AF7-4DCC-A397-9AC1FFFE9191}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_Inventory_Select.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="852148777"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_Inventory_Select" ID="{7257D9B2-5AF7-4DCC-A397-9AC1FFFE9191}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_QuestRoll_Close" ID="{4DA6F733-7233-4463-BA2F-5C41DF4E3263}" ShortID="65823802">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_QuestRoll_Close" ID="{556E38CA-63A1-4FCC-B89F-7D61F74E1945}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_QuestRoll_Close.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="564408072"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_QuestRoll_Close" ID="{556E38CA-63A1-4FCC-B89F-7D61F74E1945}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="BAS_QuestRoll_Open" ID="{3D195AEA-B2BA-4B61-B59A-CC109D8BE21A}" ShortID="972427771">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E77DC76C-6EB4-4881-BC02-15A5B4B59F2E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{011372CC-41A8-413A-B213-7EB78B351111}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="BAS_QuestRoll_Open" ID="{2E969A98-C324-44CA-ABC5-5BBEE3312071}">
+									<Language>SFX</Language>
+									<AudioFile>UI\BAS_QuestRoll_Open.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="999942273"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="BAS_QuestRoll_Open" ID="{2E969A98-C324-44CA-ABC5-5BBEE3312071}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
